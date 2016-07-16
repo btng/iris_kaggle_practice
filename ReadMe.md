@@ -1,4 +1,4 @@
-#Main file in this repo = Iris_Bokeh_DataViz.ipynb
+#Main file in this repo = index.ipynb
 
 
 ##Iris - Classic Data Science Dataset
