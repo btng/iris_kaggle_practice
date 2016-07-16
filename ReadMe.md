@@ -11,3 +11,5 @@ Python version 3.5.1, Anaconda version 4.0.0 main python modules: matplotlib, pa
 Dataset comes from: https://www.kaggle.com/uciml/iris
 Built within jupyter notebook: http://jupyter.org
 license: MIT
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/justingosses/iris_kaggle_practice)
