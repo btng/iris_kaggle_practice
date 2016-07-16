@@ -12,4 +12,7 @@ Dataset comes from: https://www.kaggle.com/uciml/iris
 Built within jupyter notebook: http://jupyter.org
 license: MIT
 
+### Click on the button below to launch a "binder" which allows you to execute this code in the cloud on a Jupyter notebook. 
+#### thanks to the amazing people at mybinder.org
+
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/justingosses/iris_kaggle_practice)
